@@ -3,3 +3,5 @@
 //= link_tree ../../javascript .js
 //= link_tree ../../../vendor/javascript .js
 //= link movie_popup.js
+//= link validate.js
+//= link movie_list_filter.js
